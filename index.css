@@ -1,0 +1,148 @@
+.frame-child,
+.frame-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #2760e4;
+  width: 960px;
+  height: 175px;
+}
+.frame-item {
+  top: 745px;
+  background-color: #0c5aa6;
+  height: 108px;
+}
+.frame-inner,
+.rectangle-div {
+  position: absolute;
+  top: 753px;
+  left: 25px;
+  background-color: var(--color-white);
+  width: 910px;
+  height: 40px;
+}
+.rectangle-div {
+  top: 804px;
+}
+.email,
+.tel {
+  position: absolute;
+  top: 761px;
+  left: 30px;
+  font-size: var(--font-size-17xl);
+  line-height: 30px;
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 195px;
+  height: 35px;
+}
+.email {
+  top: 810px;
+}
+.splash-squad {
+  margin: 0;
+}
+.swimming-school {
+  margin: 0;
+  font-size: 24px;
+}
+.splash-squad-swimming-container {
+  position: absolute;
+  top: 25px;
+  left: 245px;
+  display: inline-block;
+  width: 470px;
+  height: 60px;
+  font-size: 40px;
+}
+.image-1-icon {
+  position: absolute;
+  top: -45px;
+  left: -5px;
+  width: 225px;
+  height: 225px;
+  object-fit: cover;
+}
+.splash-squad1 {
+  position: absolute;
+  top: 75px;
+  left: 35px;
+  display: inline-block;
+  width: 140px;
+  height: 25px;
+}
+.frame-child1,
+.frame-child2,
+.frame-child3 {
+  position: absolute;
+  top: 125px;
+  left: 223px;
+  background-color: var(--color-darkslateblue-100);
+  width: 160px;
+  height: 40px;
+}
+.frame-child2,
+.frame-child3 {
+  left: 408px;
+}
+.frame-child3 {
+  left: 595px;
+}
+.about-us,
+.clases,
+.home,
+.mastering-the-waves {
+  position: absolute;
+  top: 135px;
+  left: 230px;
+  display: inline-block;
+  width: 145px;
+  height: 20px;
+}
+.about-us,
+.clases,
+.mastering-the-waves {
+  left: 425px;
+  width: 130px;
+}
+.about-us,
+.mastering-the-waves {
+  left: 605px;
+  width: 135px;
+  height: 35px;
+}
+.mastering-the-waves {
+  top: 235px;
+  left: 155px;
+  font-size: 64px;
+  color: var(--color-black);
+  width: 690px;
+  height: 175px;
+}
+.image-2-icon,
+.image-3-icon {
+  position: absolute;
+  top: 420px;
+  left: 70px;
+  width: 326px;
+  height: 220px;
+  object-fit: cover;
+}
+.image-3-icon {
+  top: 415px;
+  left: 475px;
+  width: 409px;
+  height: 225px;
+}
+.rectangle-parent {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 853px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-roboto);
+}
